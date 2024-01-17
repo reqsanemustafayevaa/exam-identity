@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\exam.MVC",
+    "\\src\\exam.MVC\\Areas",
+    "\\src\\exam.MVC\\Areas\\manage",
+    "\\src\\exam.MVC\\Areas\\manage\\Views",
+    "\\src\\exam.MVC\\Areas\\manage\\Views\\Shared"
+  ],
+  "SelectedNode": "\\src\\exam.MVC\\Areas\\manage\\Views\\Shared\\_Layout.cshtml",
+  "PreviewInSolutionExplorer": false
+}

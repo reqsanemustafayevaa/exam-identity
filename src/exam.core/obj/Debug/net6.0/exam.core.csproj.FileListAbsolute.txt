@@ -1,0 +1,28 @@
+C:\Users\II novbe\Desktop\exam1\src\exam.core\bin\Debug\net6.0\exam.core.deps.json
+C:\Users\II novbe\Desktop\exam1\src\exam.core\bin\Debug\net6.0\exam.core.dll
+C:\Users\II novbe\Desktop\exam1\src\exam.core\bin\Debug\net6.0\exam.core.pdb
+C:\Users\II novbe\Desktop\exam1\src\exam.core\obj\Debug\net6.0\exam.core.csproj.AssemblyReference.cache
+C:\Users\II novbe\Desktop\exam1\src\exam.core\obj\Debug\net6.0\exam.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\exam1\src\exam.core\obj\Debug\net6.0\exam.core.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\exam1\src\exam.core\obj\Debug\net6.0\exam.core.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\exam1\src\exam.core\obj\Debug\net6.0\exam.core.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\exam1\src\exam.core\obj\Debug\net6.0\exam.core.dll
+C:\Users\II novbe\Desktop\exam1\src\exam.core\obj\Debug\net6.0\refint\exam.core.dll
+C:\Users\II novbe\Desktop\exam1\src\exam.core\obj\Debug\net6.0\exam.core.pdb
+C:\Users\II novbe\Desktop\exam1\src\exam.core\obj\Debug\net6.0\ref\exam.core.dll
+C:\Users\II novbe\Desktop\exam1\src\exam.core\bin\Debug\net6.0\exam.core.runtimeconfig.json
+C:\Users\II novbe\Desktop\exam1\src\exam.core\obj\Debug\net6.0\exam.core.genruntimeconfig.cache
+C:\Users\User\Masaüstü\exam1\src\exam.core\bin\Debug\net6.0\exam.core.deps.json
+C:\Users\User\Masaüstü\exam1\src\exam.core\bin\Debug\net6.0\exam.core.runtimeconfig.json
+C:\Users\User\Masaüstü\exam1\src\exam.core\bin\Debug\net6.0\exam.core.dll
+C:\Users\User\Masaüstü\exam1\src\exam.core\bin\Debug\net6.0\exam.core.pdb
+C:\Users\User\Masaüstü\exam1\src\exam.core\obj\Debug\net6.0\exam.core.csproj.AssemblyReference.cache
+C:\Users\User\Masaüstü\exam1\src\exam.core\obj\Debug\net6.0\exam.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Masaüstü\exam1\src\exam.core\obj\Debug\net6.0\exam.core.AssemblyInfoInputs.cache
+C:\Users\User\Masaüstü\exam1\src\exam.core\obj\Debug\net6.0\exam.core.AssemblyInfo.cs
+C:\Users\User\Masaüstü\exam1\src\exam.core\obj\Debug\net6.0\exam.core.csproj.CoreCompileInputs.cache
+C:\Users\User\Masaüstü\exam1\src\exam.core\obj\Debug\net6.0\exam.core.dll
+C:\Users\User\Masaüstü\exam1\src\exam.core\obj\Debug\net6.0\refint\exam.core.dll
+C:\Users\User\Masaüstü\exam1\src\exam.core\obj\Debug\net6.0\exam.core.pdb
+C:\Users\User\Masaüstü\exam1\src\exam.core\obj\Debug\net6.0\exam.core.genruntimeconfig.cache
+C:\Users\User\Masaüstü\exam1\src\exam.core\obj\Debug\net6.0\ref\exam.core.dll
